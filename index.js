@@ -1,1 +1,1 @@
-console.log("Hello from repo-8");
+console.log('Hello from repo-8');
